@@ -1,0 +1,42 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+#app{
+
+}
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+}
+
+.content{
+    background-color: #ecf0f1;
+    border: 10px solid black;
+    display: inline-grid;
+    grid-column-gap: 15px;
+    grid-row-gap: 30px;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-items: center;
+    text-align: center;
+    align-items: center;
+}
+#id{
+    width: 400px;
+    height: 400px;
+
+}
+#name{
+    width: 400px;
+    height: 400px;
+
+}
+#img-JSON{
+
+    width: 400px;
+    height: 400px;
+}
+
