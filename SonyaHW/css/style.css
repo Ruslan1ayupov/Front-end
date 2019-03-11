@@ -1,0 +1,15 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+table{
+    display: inline-grid;
+    justify-items: center;
+    text-align: center;
+    align-items: center;
+}
+td{
+    background-color: #ecf0f1;
+    border: 3px solid black;
+
+}
